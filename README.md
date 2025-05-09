@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou a Patty 👩‍💻
 
-<!--
-**by-patty/by-patty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonada por tecnologia, dados e automação com Python.  
+🎯 Estudando para atuar como Cientista de Dados.  
+📚 Autodidata, focada em evoluir constantemente.  
+💻 Atualmente desenvolvendo projetos com Python, SQLite, Excel e APIs.
 
-Here are some ideas to get you started:
+### 🧰 Habilidades
+- Python (pandas, openpyxl, sqlite3)
+- Banco de Dados (SQLite, noções de MySQL)
+- Manipulação de Dados
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗂️ Projetos em Destaque
+- [Cadastro de Clientes com Excel e SQLite](https://github.com/by-patty/cadastro-clientes)
+- (outros virão em breve...)
