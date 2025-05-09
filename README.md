@@ -1,4 +1,4 @@
-# Olá! Eu sou a Patty 👩‍💻
+# Olá! Eu sou a Patty 
 
 💡 Apaixonada por tecnologia, dados e automação com Python.  
 🎯 Estudando para atuar como Cientista de Dados.  
